@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DF79F&width=435&lines=Starting+Early+in+my+Late+20s.;I+commit+before+my+breakfast.;I+understand+the+gadgets+around+me+more+than+I+understand++people)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=19&pause=1000&color=1DF79F&width=435&lines=Starting+Early+in+my+Late+20s.;I+commit+before+my+breakfast.;I+can+empathize+with+gadgets+in+vicinity+)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning Algos and LLD patterns. 
 
@@ -23,7 +23,7 @@ How do I learn things? What is my Current Learning process? Good Question!
 - Ask GPT to explain, 
 - Write the code,
 - Update the Notion with Cornell System
- - Add Keywords
- - Recall Questions
- - Summary
+     -> Add Keywords
+     -> Recall Questions
+     -> Summary
 - Next day/time answer that question w/o looking. 
