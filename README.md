@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DF79F&width=435&lines=Starting+Early+in+my+Late+20s.;I+do+pulls+everyday;I+have+disabled+my+Copilot+for+my+algo+Repo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DF79F&width=435&lines=Starting+Early+in+my+Late+20s.;I+do+pulls+everyday;Algos+and+Design+Patterns+are+my+thing)](https://git.io/typing-svg)
 
 - 🤔 I’m looking for help with deciding my career path
 - 🌱 I’m currently learning Algos and LLD patterns
