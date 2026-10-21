@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DF79F&width=435&lines=Starting+Early+in+my+Late+20s.)](https://git.io/typing-svg)
+- 🤔 I’m looking for help with deciding my career path
+- 🌱 I’m currently learning Algos and LLD patterns
